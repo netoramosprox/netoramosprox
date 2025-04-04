@@ -35,7 +35,7 @@ Veja meus repositórios para exemplos de APIs RESTful, CRUDs e projetos de estud
 
 ## 📬 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- 📧 E-mail: seuemail@exemplo.com
+- 💼 LinkedIn: ([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/rosival-ramos/))
+- 📧 E-mail: empresariodigital2022@gmail.com
 
 Estou disponível para entrevistas, processos seletivos ou colaborações em projetos.
