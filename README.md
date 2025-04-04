@@ -1,49 +1,41 @@
-# 👋 Olá! Eu sou Neto Ramos
+# 👨‍💻 Desenvolvedor Java Júnior
 
-🎯 Iniciante em Desenvolvimento Blockchain | Aspirante a Desenvolvedor e Auditor de Contratos Inteligentes
+Sou desenvolvedor backend com foco em Java e no ecossistema Spring. Busco minha primeira oportunidade profissional na área de desenvolvimento de software, onde eu possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e contribuir de forma prática para projetos reais.
 
----
-
-## Sobre Mim
-
-Sou um entusiasta de blockchain começando minha jornada no desenvolvimento e auditoria de contratos inteligentes. Estou aprendendo a criar soluções descentralizadas seguras e escaláveis, com foco em redes como **Ethereum** e ferramentas como **Solidity**.
-
-- 🌱 Atualmente estudando **Solidity**, **Hardhat** e **Web3.js**.
-- 💻 Explorando o universo de contratos inteligentes e NFTs.
-- 🚀 Interesse especial por Finanças Descentralizadas (DeFi) e segurança em blockchain.
+Tenho um perfil autodidata, gosto de resolver problemas com organização e clareza, e estou constantemente aprimorando minhas habilidades em arquitetura backend, boas práticas de código e qualidade de software.
 
 ---
 
-## Tecnologias que Estou Aprendendo
+## 🛠️ Tecnologias e Ferramentas
 
-- **Blockchain:** Ethereum, Polygon, Binance Smart Chain.
-- **Linguagens:** Solidity, JavaScript, Python.
-- **Ferramentas:** Remix, Hardhat, Ganache, MetaMask.
-
----
-
-## Projetos Iniciais
-
-🔗 [Meu Primeiro Token ERC-20](#)  
-- Um token básico para entender padrões de contratos inteligentes.
-
-🔗 [NFT Simples no Ethereum](#)  
-- Contrato ERC-721 para mintar NFTs personalizados.
+- 💻 **Linguagem:** Java (8+), Javascript
+- 🌱 **Frameworks:** Spring Boot, Spring Data JPA, React
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL
+- ⚙️ **Ferramentas:** Git, Maven, Postman
+- 🔧 **Práticas:** RESTful APIs, testes com JUnit, versionamento de código
 
 ---
 
-## 🌟 Vamos nos Conectar?
+## 📚 Em evolução
 
-📫 **Contato:** [neto.hnd2019@gmail.com](neto.hnd2019@gmail.com)  
-💼 **GitHub:** [netoramosprox](https://github.com/netoramosprox)  
-🌐 **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Atualmente estudando:
+
+- 🔐 Spring Security e autenticação JWT  
+- 🧹 Boas práticas com Clean Code e SOLID  
+- 🐳 Docker e deploy de aplicações  
+- 🧱 Arquitetura de microsserviços  
 
 ---
 
-✨ "Cada linha de código é um passo em direção ao futuro descentralizado!" ✨
+## 🚀 Projetos
 
+Veja meus repositórios para exemplos de APIs RESTful, CRUDs e projetos de estudo com Spring Boot e banco de dados relacional.
 
-<!---
-netoramosprox/netoramosprox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📬 Contato
+
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 📧 E-mail: seuemail@exemplo.com
+
+Estou disponível para entrevistas, processos seletivos ou colaborações em projetos.
